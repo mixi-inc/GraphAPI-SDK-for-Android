@@ -33,7 +33,7 @@ class Constants {
     /** android2.2のSDKバージョン番号 */
     static final int SUPPORTED_SDK_VERSION = 8;
     /** mixiAndroidSDKのバージョン番号 */
-    static final String VERSION = "1.8";
+    static final String VERSION = BuildConfig.VERSION_NAME;
     /** SDKからアクセスする際のユーザーエージェント */
     static final String USER_AGENT =
             System.getProperties().getProperty("http.agent") + " mixi-Android-SDK/" + VERSION;
