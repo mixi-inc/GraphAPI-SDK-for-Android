@@ -1,5 +1,7 @@
 mixi API SDK for Android
 ========================
+[![Circle CI](https://circleci.com/gh/mixi-inc/mixi-API-SDK-for-Android.svg?style=svg)](https://circleci.com/gh/mixi-inc/mixi-API-SDK-for-Android)
+[![License](http://img.shields.io/badge/license-Apache%202.0-blue.svg)](http://www.apache.org/licenses/LICENSE-2.0)
 
 Graph API を利用した Android アプリケーションの開発用に SDK を提供しています。  
 このSDKを利用することで、OAuth 2.0の認証/認可の手順を実装する必要がなくなり、みなさんが開発するアプリケーションにソーシャル機能を簡単に組み込むことができるようになります。
